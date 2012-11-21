@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Generated Files\Debug">
+      <UniqueIdentifier>{12b1957a-fbde-4a17-9029-d2e6aed9a677}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Generated Files\Release">
+      <UniqueIdentifier>{2b0d5d39-0c7f-4bf9-85c7-04b357304b1a}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Header Files\project_navigator">
+      <UniqueIdentifier>{c82c0c30-cabc-44e5-aa60-23db5ba9d408}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\property_browser">
+      <UniqueIdentifier>{b248867c-b8ec-4d01-9fd1-233cf87d1223}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\fileinterface">
+      <UniqueIdentifier>{2026269d-e0ea-46cb-93b9-1793c1c719d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\graphic_editor">
+      <UniqueIdentifier>{f05c882b-c118-4fa8-937a-6194ceeeaf3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\fileinterface">
+      <UniqueIdentifier>{803d6bf6-b72f-48d2-a1c2-d8826765c1cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\graphic_editor">
+      <UniqueIdentifier>{491afde3-dcc2-4b41-a787-eb15ec2003ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\property_browser">
+      <UniqueIdentifier>{e38d008e-802d-4ac2-900b-ff74fa15a00c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\project_navigator">
+      <UniqueIdentifier>{0a953995-29e9-4dbd-9585-15091a7ada96}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main_window.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_gl_widget.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_gl_widget.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_main_window.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_main_window.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_property_browser.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_property_browser.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_qteditorfactory.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_qteditorfactory.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_qtpropertybrowser.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_qtpropertybrowser.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_qtpropertybrowserutils_p.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_qtpropertybrowserutils_p.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_qtpropertymanager.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_qtpropertymanager.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_qttreepropertybrowser.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_qttreepropertybrowser.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="graphic_editor\cl_utils.cc">
+      <Filter>Source Files\graphic_editor</Filter>
+    </ClCompile>
+    <ClCompile Include="graphic_editor\gl_utils.cc">
+      <Filter>Source Files\graphic_editor</Filter>
+    </ClCompile>
+    <ClCompile Include="graphic_editor\gl_widget.cc">
+      <Filter>Source Files\graphic_editor</Filter>
+    </ClCompile>
+    <ClCompile Include="project_navigator\navigator_model.cc">
+      <Filter>Source Files\project_navigator</Filter>
+    </ClCompile>
+    <ClCompile Include="project_navigator\project_navigator.cc">
+      <Filter>Source Files\project_navigator</Filter>
+    </ClCompile>
+    <ClCompile Include="property_browser\property_browser.cpp">
+      <Filter>Source Files\property_browser</Filter>
+    </ClCompile>
+    <ClCompile Include="property_browser\qteditorfactory.cpp">
+      <Filter>Source Files\property_browser</Filter>
+    </ClCompile>
+    <ClCompile Include="property_browser\qtpropertybrowser.cpp">
+      <Filter>Source Files\property_browser</Filter>
+    </ClCompile>
+    <ClCompile Include="property_browser\qtpropertybrowserutils.cpp">
+      <Filter>Source Files\property_browser</Filter>
+    </ClCompile>
+    <ClCompile Include="property_browser\qtpropertymanager.cpp">
+      <Filter>Source Files\property_browser</Filter>
+    </ClCompile>
+    <ClCompile Include="property_browser\qttreepropertybrowser.cpp">
+      <Filter>Source Files\property_browser</Filter>
+    </ClCompile>
+    <ClCompile Include="graphic_editor\tab_editor.cc">
+      <Filter>Source Files\graphic_editor</Filter>
+    </ClCompile>
+    <ClCompile Include="fileinterface\colladainterface.cpp">
+      <Filter>Source Files\fileinterface</Filter>
+    </ClCompile>
+    <ClCompile Include="fileinterface\pugixml.cpp">
+      <Filter>Source Files\fileinterface</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\moc_gl_base.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="Release\moc_gl_base.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="graphic_editor\gl_base.cc">
+      <Filter>Source Files\graphic_editor</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="main_window.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <ClInclude Include="project_navigator\navigator_model.h">
+      <Filter>Header Files\project_navigator</Filter>
+    </ClInclude>
+    <ClInclude Include="project_navigator\node_data.h">
+      <Filter>Header Files\project_navigator</Filter>
+    </ClInclude>
+    <ClInclude Include="fileinterface\colladainterface.h">
+      <Filter>Header Files\fileinterface</Filter>
+    </ClInclude>
+    <ClInclude Include="fileinterface\pugiconfig.h">
+      <Filter>Header Files\fileinterface</Filter>
+    </ClInclude>
+    <ClInclude Include="fileinterface\pugixml.h">
+      <Filter>Header Files\fileinterface</Filter>
+    </ClInclude>
+    <ClInclude Include="graphic_editor\cl_utils.h">
+      <Filter>Header Files\graphic_editor</Filter>
+    </ClInclude>
+    <CustomBuild Include="property_browser\qteditorfactory.h">
+      <Filter>Header Files\property_browser</Filter>
+    </CustomBuild>
+    <CustomBuild Include="graphic_editor\tab_editor.h">
+      <Filter>Header Files\graphic_editor</Filter>
+    </CustomBuild>
+    <CustomBuild Include="graphic_editor\gl_base.h">
+      <Filter>Header Files\graphic_editor</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="debug\moc_project_navigator.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="release\moc_project_navigator.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="debug\moc_tab_editor.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="release\moc_tab_editor.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="Debug\qteditorfactory.moc">
+      <Filter>Generated Files\Debug</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Release\qteditorfactory.moc">
+      <Filter>Generated Files\Release</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Debug\qtpropertymanager.moc">
+      <Filter>Generated Files\Debug</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Release\qtpropertymanager.moc">
+      <Filter>Generated Files\Release</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Debug\qttreepropertybrowser.moc">
+      <Filter>Generated Files\Debug</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Release\qttreepropertybrowser.moc">
+      <Filter>Generated Files\Release</Filter>
+    </CustomBuild>
+    <CustomBuild Include="project_navigator\project_navigator.h">
+      <Filter>Header Files\project_navigator</Filter>
+    </CustomBuild>
+    <CustomBuild Include="property_browser\qtpropertybrowser.h">
+      <Filter>Header Files\property_browser</Filter>
+    </CustomBuild>
+    <CustomBuild Include="property_browser\qttreepropertybrowser.h">
+      <Filter>Header Files\property_browser</Filter>
+    </CustomBuild>
+    <CustomBuild Include="property_browser\qtpropertybrowserutils_p.h">
+      <Filter>Header Files\property_browser</Filter>
+    </CustomBuild>
+    <CustomBuild Include="property_browser\qtpropertymanager.h">
+      <Filter>Header Files\property_browser</Filter>
+    </CustomBuild>
+    <CustomBuild Include="property_browser\property_browser.h">
+      <Filter>Header Files\property_browser</Filter>
+    </CustomBuild>
+    <CustomBuild Include="graphic_editor\gl_widget.h">
+      <Filter>Header Files\graphic_editor</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="graphic_editor\gl_utils.h">
+      <Filter>Header Files\graphic_editor</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="graphic_editor\spline_data.h">
+      <Filter>Header Files\graphic_editor</Filter>
+    </ClInclude>
+    <ClInclude Include="graphic_editor\gl_defines.h">
+      <Filter>Header Files\graphic_editor</Filter>
+    </ClInclude>
+    <ClInclude Include="resource1.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="umast1.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\umast.ico" />
+  </ItemGroup>
+</Project>
